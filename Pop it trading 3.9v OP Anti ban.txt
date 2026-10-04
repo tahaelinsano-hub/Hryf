@@ -22,7 +22,7 @@ local buyRemote = ReplicatedStorage:WaitForChild("RemoteEvents"):WaitForChild("B
 --------------------------------------------------------------------------------
 local whitelist = {
     ["trustmypick"] = true,
-    ["nanahaheu374747"] = true,
+    ["dragonballpasa3"] = true,
     ["YourUsernameHere"] = true
 }
 
